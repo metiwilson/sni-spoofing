@@ -3,7 +3,6 @@
 راهنمای کامل استفاده از **Patterniha** برای اجرای SNI Spoofing و اتصال آن به کلاینت‌های:  
 **V2Ray / Xray / Nekobox / v2rayNG**
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()  
 [![Made By](https://img.shields.io/badge/Maintainer-%40metiwilson-blue)]()  
 [![Platform](https://img.shields.io/badge/Platform-Windows-%230078D6.svg)]()  
 
