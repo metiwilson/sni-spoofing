@@ -22,7 +22,7 @@
 
 آخرین نسخه برنامه را از لینک زیر دانلود کنید:
 
-🔗 https://github.com/metiwilson/sni-spoofing/releases/tag/v1.0
+🔗 [https://github.com/metiwilson/sni-spoofing/releases/tag/v1.0](https://github.com/patterniha/SNI-Spoofing/releases/tag/v1.0)
 
 فایل را به صورت **ZIP یا RAR** دریافت کنید.
 
